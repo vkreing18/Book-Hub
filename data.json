@@ -1,0 +1,256 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "description": "A classic novel about racial injustice and loss of innocence.",
+      "fullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum similique enim quod non aperiam nemo vel pariatur possimus, quas, aliquam tempora! Ex voluptatum similique vel voluptate repellat sequi, explicabo, dignissimos minus voluptates provident dolorem fugiat repellendus quam architecto sunt quia ratione id, expedita quae tempore optio. In vero debitis quidem, necessitatibus sapiente ullam ea laboriosam nam cumque commodi, corporis iure! Neque, ullam voluptatibus recusandae incidunt pariatur totam modi sint asperiores dolore laudantium fugiat nulla eligendi consequuntur ex expedita nobis! Nemo eaque commodi quos nobis delectus labore ea, veritatis sed doloribus, natus odit reiciendis maxime at animi laudantium soluta voluptatibus dolorum tempore officia. Repellat, quo similique dolor, non, doloribus optio corrupti quidem nostrum repudiandae delectus ad aliquam. Officiis, enim? Nesciunt natus maxime, fugit neque impedit dolores nihil id odio veritatis eligendi dicta earum in, corporis unde autem recusandae at minus exercitationem perspiciatis velit! Ipsam corrupti unde, consequuntur cumque qui hic praesentium voluptate consequatur culpa labore porro nemo debitis magnam quisquam rerum esse maxime ipsum magni error a. Praesentium quibusdam dignissimos, tempora voluptatibus iusto ipsam natus dolorum ad laudantium delectus, provident eveniet non optio, aliquid quas quia et architecto accusantium quos! Sapiente aperiam labore beatae sequi omnis earum aspernatur sed atque a!",
+      "price": 10.99,
+      "rating": 4.5,
+      "image": "https://cdn.britannica.com/21/182021-050-666DB6B1/book-cover-To-Kill-a-Mockingbird-many-1961.jpg"
+    },
+    {
+      "id": 2,
+      "name": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "description": "A dystopian novel set in a totalitarian society.",
+      "fullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum similique enim quod non aperiam nemo vel pariatur possimus, quas, aliquam tempora! Ex voluptatum similique vel voluptate repellat sequi, explicabo, dignissimos minus voluptates provident dolorem fugiat repellendus quam architecto sunt quia ratione id, expedita quae tempore optio. In vero debitis quidem, necessitatibus sapiente ullam ea laboriosam nam cumque commodi, corporis iure! Neque, ullam voluptatibus recusandae incidunt pariatur totam modi sint asperiores dolore laudantium fugiat nulla eligendi consequuntur ex expedita nobis! Nemo eaque commodi quos nobis delectus labore ea, veritatis sed doloribus, natus odit reiciendis maxime at animi laudantium soluta voluptatibus dolorum tempore officia. Repellat, quo similique dolor, non, doloribus optio corrupti quidem nostrum repudiandae delectus ad aliquam. Officiis, enim? Nesciunt natus maxime, fugit neque impedit dolores nihil id odio veritatis eligendi dicta earum in, corporis unde autem recusandae at minus exercitationem perspiciatis velit! Ipsam corrupti unde, consequuntur cumque qui hic praesentium voluptate consequatur culpa labore porro nemo debitis magnam quisquam rerum esse maxime ipsum magni error a. Praesentium quibusdam dignissimos, tempora voluptatibus iusto ipsam natus dolorum ad laudantium delectus, provident eveniet non optio, aliquid quas quia et architecto accusantium quos! Sapiente aperiam labore beatae sequi omnis earum aspernatur sed atque a!",
+      "price": 12.99,
+      "rating": 4.8,
+      "image": "https://m.media-amazon.com/images/I/519zR2oIlmL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "description": "A classic romance novel set in 19th-century England.",
+      "fullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum similique enim quod non aperiam nemo vel pariatur possimus, quas, aliquam tempora! Ex voluptatum similique vel voluptate repellat sequi, explicabo, dignissimos minus voluptates provident dolorem fugiat repellendus quam architecto sunt quia ratione id, expedita quae tempore optio. In vero debitis quidem, necessitatibus sapiente ullam ea laboriosam nam cumque commodi, corporis iure! Neque, ullam voluptatibus recusandae incidunt pariatur totam modi sint asperiores dolore laudantium fugiat nulla eligendi consequuntur ex expedita nobis! Nemo eaque commodi quos nobis delectus labore ea, veritatis sed doloribus, natus odit reiciendis maxime at animi laudantium soluta voluptatibus dolorum tempore officia. Repellat, quo similique dolor, non, doloribus optio corrupti quidem nostrum repudiandae delectus ad aliquam. Officiis, enim? Nesciunt natus maxime, fugit neque impedit dolores nihil id odio veritatis eligendi dicta earum in, corporis unde autem recusandae at minus exercitationem perspiciatis velit! Ipsam corrupti unde, consequuntur cumque qui hic praesentium voluptate consequatur culpa labore porro nemo debitis magnam quisquam rerum esse maxime ipsum magni error a. Praesentium quibusdam dignissimos, tempora voluptatibus iusto ipsam natus dolorum ad laudantium delectus, provident eveniet non optio, aliquid quas quia et architecto accusantium quos! Sapiente aperiam labore beatae sequi omnis earum aspernatur sed atque a!",
+      "price": 9.99,
+      "rating": 4.3,
+      "image": "https://s3.ap-south-1.amazonaws.com/storage.commonfolks.in/docs/products/images_full/pride-prejudice-fingerprint_FrontImage_405.jpg"
+    },
+    {
+      "id": 4,
+      "name": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fiction",
+      "description": "A story of wealth, love, and the American Dream.",
+      "fullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum similique enim quod non aperiam nemo vel pariatur possimus, quas, aliquam tempora! Ex voluptatum similique vel voluptate repellat sequi, explicabo, dignissimos minus voluptates provident dolorem fugiat repellendus quam architecto sunt quia ratione id, expedita quae tempore optio. In vero debitis quidem, necessitatibus sapiente ullam ea laboriosam nam cumque commodi, corporis iure! Neque, ullam voluptatibus recusandae incidunt pariatur totam modi sint asperiores dolore laudantium fugiat nulla eligendi consequuntur ex expedita nobis! Nemo eaque commodi quos nobis delectus labore ea, veritatis sed doloribus, natus odit reiciendis maxime at animi laudantium soluta voluptatibus dolorum tempore officia. Repellat, quo similique dolor, non, doloribus optio corrupti quidem nostrum repudiandae delectus ad aliquam. Officiis, enim? Nesciunt natus maxime, fugit neque impedit dolores nihil id odio veritatis eligendi dicta earum in, corporis unde autem recusandae at minus exercitationem perspiciatis velit! Ipsam corrupti unde, consequuntur cumque qui hic praesentium voluptate consequatur culpa labore porro nemo debitis magnam quisquam rerum esse maxime ipsum magni error a. Praesentium quibusdam dignissimos, tempora voluptatibus iusto ipsam natus dolorum ad laudantium delectus, provident eveniet non optio, aliquid quas quia et architecto accusantium quos! Sapiente aperiam labore beatae sequi omnis earum aspernatur sed atque a!",
+      "price": 11.99,
+      "rating": 4.7,
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkxNTk1ODcxNl5BMl5BanBnXkFtZTcwMDI1OTMzOQ@@._V1_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Fiction",
+      "description": "A coming-of-age novel about teenage angst and alienation.",
+      "fullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum similique enim quod non aperiam nemo vel pariatur possimus, quas, aliquam tempora! Ex voluptatum similique vel voluptate repellat sequi, explicabo, dignissimos minus voluptates provident dolorem fugiat repellendus quam architecto sunt quia ratione id, expedita quae tempore optio. In vero debitis quidem, necessitatibus sapiente ullam ea laboriosam nam cumque commodi, corporis iure! Neque, ullam voluptatibus recusandae incidunt pariatur totam modi sint asperiores dolore laudantium fugiat nulla eligendi consequuntur ex expedita nobis! Nemo eaque commodi quos nobis delectus labore ea, veritatis sed doloribus, natus odit reiciendis maxime at animi laudantium soluta voluptatibus dolorum tempore officia. Repellat, quo similique dolor, non, doloribus optio corrupti quidem nostrum repudiandae delectus ad aliquam. Officiis, enim? Nesciunt natus maxime, fugit neque impedit dolores nihil id odio veritatis eligendi dicta earum in, corporis unde autem recusandae at minus exercitationem perspiciatis velit! Ipsam corrupti unde, consequuntur cumque qui hic praesentium voluptate consequatur culpa labore porro nemo debitis magnam quisquam rerum esse maxime ipsum magni error a. Praesentium quibusdam dignissimos, tempora voluptatibus iusto ipsam natus dolorum ad laudantium delectus, provident eveniet non optio, aliquid quas quia et architecto accusantium quos! Sapiente aperiam labore beatae sequi omnis earum aspernatur sed atque a!",
+      "price": 10.49,
+      "rating": 4.2,
+      "image": "https://m.media-amazon.com/images/I/7108sdEUEGL.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "description": "The first book in the Harry Potter series.",
+      "fullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum similique enim quod non aperiam nemo vel pariatur possimus, quas, aliquam tempora! Ex voluptatum similique vel voluptate repellat sequi, explicabo, dignissimos minus voluptates provident dolorem fugiat repellendus quam architecto sunt quia ratione id, expedita quae tempore optio. In vero debitis quidem, necessitatibus sapiente ullam ea laboriosam nam cumque commodi, corporis iure! Neque, ullam voluptatibus recusandae incidunt pariatur totam modi sint asperiores dolore laudantium fugiat nulla eligendi consequuntur ex expedita nobis! Nemo eaque commodi quos nobis delectus labore ea, veritatis sed doloribus, natus odit reiciendis maxime at animi laudantium soluta voluptatibus dolorum tempore officia. Repellat, quo similique dolor, non, doloribus optio corrupti quidem nostrum repudiandae delectus ad aliquam. Officiis, enim? Nesciunt natus maxime, fugit neque impedit dolores nihil id odio veritatis eligendi dicta earum in, corporis unde autem recusandae at minus exercitationem perspiciatis velit! Ipsam corrupti unde, consequuntur cumque qui hic praesentium voluptate consequatur culpa labore porro nemo debitis magnam quisquam rerum esse maxime ipsum magni error a. Praesentium quibusdam dignissimos, tempora voluptatibus iusto ipsam natus dolorum ad laudantium delectus, provident eveniet non optio, aliquid quas quia et architecto accusantium quos! Sapiente aperiam labore beatae sequi omnis earum aspernatur sed atque a!",
+      "price": 14.99,
+      "rating": 4.9,
+      "image": "https://images.moviesanywhere.com/143cdb987186a1c8f94d4f18de211216/fdea56fa-2703-47c1-8da8-70fc5382e1ea.jpg"
+    },
+    {
+      "id": 7,
+      "name": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "description": "A fantasy adventure novel set in Middle-earth.",
+      "fullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum similique enim quod non aperiam nemo vel pariatur possimus, quas, aliquam tempora! Ex voluptatum similique vel voluptate repellat sequi, explicabo, dignissimos minus voluptates provident dolorem fugiat repellendus quam architecto sunt quia ratione id, expedita quae tempore optio. In vero debitis quidem, necessitatibus sapiente ullam ea laboriosam nam cumque commodi, corporis iure! Neque, ullam voluptatibus recusandae incidunt pariatur totam modi sint asperiores dolore laudantium fugiat nulla eligendi consequuntur ex expedita nobis! Nemo eaque commodi quos nobis delectus labore ea, veritatis sed doloribus, natus odit reiciendis maxime at animi laudantium soluta voluptatibus dolorum tempore officia. Repellat, quo similique dolor, non, doloribus optio corrupti quidem nostrum repudiandae delectus ad aliquam. Officiis, enim? Nesciunt natus maxime, fugit neque impedit dolores nihil id odio veritatis eligendi dicta earum in, corporis unde autem recusandae at minus exercitationem perspiciatis velit! Ipsam corrupti unde, consequuntur cumque qui hic praesentium voluptate consequatur culpa labore porro nemo debitis magnam quisquam rerum esse maxime ipsum magni error a. Praesentium quibusdam dignissimos, tempora voluptatibus iusto ipsam natus dolorum ad laudantium delectus, provident eveniet non optio, aliquid quas quia et architecto accusantium quos! Sapiente aperiam labore beatae sequi omnis earum aspernatur sed atque a!",
+      "price": 13.49,
+      "rating": 4.6,
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYzNDE3OTQ3MF5BMl5BanBnXkFtZTgwODczMTg4MjE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": 8,
+      "name": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "genre": "Dystopian",
+      "description": "A dystopian novel about a post-apocalyptic society.",
+      "fullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum similique enim quod non aperiam nemo vel pariatur possimus, quas, aliquam tempora! Ex voluptatum similique vel voluptate repellat sequi, explicabo, dignissimos minus voluptates provident dolorem fugiat repellendus quam architecto sunt quia ratione id, expedita quae tempore optio. In vero debitis quidem, necessitatibus sapiente ullam ea laboriosam nam cumque commodi, corporis iure! Neque, ullam voluptatibus recusandae incidunt pariatur totam modi sint asperiores dolore laudantium fugiat nulla eligendi consequuntur ex expedita nobis! Nemo eaque commodi quos nobis delectus labore ea, veritatis sed doloribus, natus odit reiciendis maxime at animi laudantium soluta voluptatibus dolorum tempore officia. Repellat, quo similique dolor, non, doloribus optio corrupti quidem nostrum repudiandae delectus ad aliquam. Officiis, enim? Nesciunt natus maxime, fugit neque impedit dolores nihil id odio veritatis eligendi dicta earum in, corporis unde autem recusandae at minus exercitationem perspiciatis velit! Ipsam corrupti unde, consequuntur cumque qui hic praesentium voluptate consequatur culpa labore porro nemo debitis magnam quisquam rerum esse maxime ipsum magni error a. Praesentium quibusdam dignissimos, tempora voluptatibus iusto ipsam natus dolorum ad laudantium delectus, provident eveniet non optio, aliquid quas quia et architecto accusantium quos! Sapiente aperiam labore beatae sequi omnis earum aspernatur sed atque a!",
+      "price": 10.99,
+      "rating": 4.4,
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA4NDg3NzYxMF5BMl5BanBnXkFtZTcwNTgyNzkyNw@@._V1_.jpg"
+    },
+    {
+      "id": 9,
+      "name": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "description": "An epic fantasy trilogy set in Middle-earth.",
+      "fullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum similique enim quod non aperiam nemo vel pariatur possimus, quas, aliquam tempora! Ex voluptatum similique vel voluptate repellat sequi, explicabo, dignissimos minus voluptates provident dolorem fugiat repellendus quam architecto sunt quia ratione id, expedita quae tempore optio. In vero debitis quidem, necessitatibus sapiente ullam ea laboriosam nam cumque commodi, corporis iure! Neque, ullam voluptatibus recusandae incidunt pariatur totam modi sint asperiores dolore laudantium fugiat nulla eligendi consequuntur ex expedita nobis! Nemo eaque commodi quos nobis delectus labore ea, veritatis sed doloribus, natus odit reiciendis maxime at animi laudantium soluta voluptatibus dolorum tempore officia. Repellat, quo similique dolor, non, doloribus optio corrupti quidem nostrum repudiandae delectus ad aliquam. Officiis, enim? Nesciunt natus maxime, fugit neque impedit dolores nihil id odio veritatis eligendi dicta earum in, corporis unde autem recusandae at minus exercitationem perspiciatis velit! Ipsam corrupti unde, consequuntur cumque qui hic praesentium voluptate consequatur culpa labore porro nemo debitis magnam quisquam rerum esse maxime ipsum magni error a. Praesentium quibusdam dignissimos, tempora voluptatibus iusto ipsam natus dolorum ad laudantium delectus, provident eveniet non optio, aliquid quas quia et architecto accusantium quos! Sapiente aperiam labore beatae sequi omnis earum aspernatur sed atque a!",
+      "price": 29.99,
+      "rating": 4.8,
+      "image": "https://m.media-amazon.com/images/I/71jLBXtWJWL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 10,
+      "name": "The Chronicles of Narnia",
+      "author": "C.S. Lewis",
+      "genre": "Fantasy",
+      "description": "A series of fantasy novels set in the magical world of Narnia.",
+      "fullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum similique enim quod non aperiam nemo vel pariatur possimus, quas, aliquam tempora! Ex voluptatum similique vel voluptate repellat sequi, explicabo, dignissimos minus voluptates provident dolorem fugiat repellendus quam architecto sunt quia ratione id, expedita quae tempore optio. In vero debitis quidem, necessitatibus sapiente ullam ea laboriosam nam cumque commodi, corporis iure! Neque, ullam voluptatibus recusandae incidunt pariatur totam modi sint asperiores dolore laudantium fugiat nulla eligendi consequuntur ex expedita nobis! Nemo eaque commodi quos nobis delectus labore ea, veritatis sed doloribus, natus odit reiciendis maxime at animi laudantium soluta voluptatibus dolorum tempore officia. Repellat, quo similique dolor, non, doloribus optio corrupti quidem nostrum repudiandae delectus ad aliquam. Officiis, enim? Nesciunt natus maxime, fugit neque impedit dolores nihil id odio veritatis eligendi dicta earum in, corporis unde autem recusandae at minus exercitationem perspiciatis velit! Ipsam corrupti unde, consequuntur cumque qui hic praesentium voluptate consequatur culpa labore porro nemo debitis magnam quisquam rerum esse maxime ipsum magni error a. Praesentium quibusdam dignissimos, tempora voluptatibus iusto ipsam natus dolorum ad laudantium delectus, provident eveniet non optio, aliquid quas quia et architecto accusantium quos! Sapiente aperiam labore beatae sequi omnis earum aspernatur sed atque a!",
+      "price": 19.99,
+      "rating": 4.7,
+      "image": "https://m.media-amazon.com/images/I/71uBLNzt4KL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Brave New World",
+      "author": "Aldous Huxley",
+      "genre": "Dystopian",
+      "description": "A dystopian novel depicting a future society.",
+      "fullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum similique enim quod non aperiam nemo vel pariatur possimus, quas, aliquam tempora! Ex voluptatum similique vel voluptate repellat sequi, explicabo, dignissimos minus voluptates provident dolorem fugiat repellendus quam architecto sunt quia ratione id, expedita quae tempore optio. In vero debitis quidem, necessitatibus sapiente ullam ea laboriosam nam cumque commodi, corporis iure! Neque, ullam voluptatibus recusandae incidunt pariatur totam modi sint asperiores dolore laudantium fugiat nulla eligendi consequuntur ex expedita nobis! Nemo eaque commodi quos nobis delectus labore ea, veritatis sed doloribus, natus odit reiciendis maxime at animi laudantium soluta voluptatibus dolorum tempore officia. Repellat, quo similique dolor, non, doloribus optio corrupti quidem nostrum repudiandae delectus ad aliquam. Officiis, enim? Nesciunt natus maxime, fugit neque impedit dolores nihil id odio veritatis eligendi dicta earum in, corporis unde autem recusandae at minus exercitationem perspiciatis velit! Ipsam corrupti unde, consequuntur cumque qui hic praesentium voluptate consequatur culpa labore porro nemo debitis magnam quisquam rerum esse maxime ipsum magni error a. Praesentium quibusdam dignissimos, tempora voluptatibus iusto ipsam natus dolorum ad laudantium delectus, provident eveniet non optio, aliquid quas quia et architecto accusantium quos! Sapiente aperiam labore beatae sequi omnis earum aspernatur sed atque a!",
+      "price": 12.99,
+      "rating": 4.3,
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/62/BraveNewWorld_FirstEdition.jpg"
+    },
+    {
+      "id": 12,
+      "name": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "description": "A philosophical novel about a young shepherd's journey.",
+      "fullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum similique enim quod non aperiam nemo vel pariatur possimus, quas, aliquam tempora! Ex voluptatum similique vel voluptate repellat sequi, explicabo, dignissimos minus voluptates provident dolorem fugiat repellendus quam architecto sunt quia ratione id, expedita quae tempore optio. In vero debitis quidem, necessitatibus sapiente ullam ea laboriosam nam cumque commodi, corporis iure! Neque, ullam voluptatibus recusandae incidunt pariatur totam modi sint asperiores dolore laudantium fugiat nulla eligendi consequuntur ex expedita nobis! Nemo eaque commodi quos nobis delectus labore ea, veritatis sed doloribus, natus odit reiciendis maxime at animi laudantium soluta voluptatibus dolorum tempore officia. Repellat, quo similique dolor, non, doloribus optio corrupti quidem nostrum repudiandae delectus ad aliquam. Officiis, enim? Nesciunt natus maxime, fugit neque impedit dolores nihil id odio veritatis eligendi dicta earum in, corporis unde autem recusandae at minus exercitationem perspiciatis velit! Ipsam corrupti unde, consequuntur cumque qui hic praesentium voluptate consequatur culpa labore porro nemo debitis magnam quisquam rerum esse maxime ipsum magni error a. Praesentium quibusdam dignissimos, tempora voluptatibus iusto ipsam natus dolorum ad laudantium delectus, provident eveniet non optio, aliquid quas quia et architecto accusantium quos! Sapiente aperiam labore beatae sequi omnis earum aspernatur sed atque a!",
+      "price": 11.49,
+      "rating": 4.5,
+      "image": "https://m.media-amazon.com/images/I/51FXs5gTmdL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ],
+  "userData": [
+    {
+      "name": "Subarna Keshari Sutar",
+      "email": "sovonsutarsutar123@gmail.com",
+      "password": "123",
+      "phone": "07077786090",
+      "id": 1
+    },
+    {
+      "name": "Atreya Chandan",
+      "email": "atreyachandan@gmail.com",
+      "password": "123",
+      "phone": "07077786090",
+      "id": 2
+    },
+    {
+      "name": "Mirza Sahid Baig",
+      "email": "sahid123@gmail.com",
+      "password": "123",
+      "phone": "07077786090",
+      "id": 3
+    },
+    {
+      "name": "Jyoti Pradhan",
+      "email": "jyoti123@gmail.com",
+      "password": "123",
+      "phone": "07077786090",
+      "id": 4
+    },
+    {
+      "name": "Atreya Chandan",
+      "email": "atreya@mail.com",
+      "password": "111",
+      "phone": "8249195604",
+      "id": 5
+    },
+    {
+      "name": "Atreya Chandan",
+      "email": "atreyachandan100@gmai.com",
+      "password": "111",
+      "phone": "8249195604",
+      "id": 6
+    },
+    {
+      "name": "Atreya Chandan",
+      "email": "atreya@mail.com",
+      "password": "111",
+      "phone": "7077786090",
+      "id": 7
+    },
+    {
+      "name": " qbasc",
+      "email": "sovonsutarsutar123@gmail.com",
+      "password": "673467 ",
+      "phone": "8249195604",
+      "id": 8
+    },
+    {
+      "name": "sssovan12323",
+      "email": "sovonsutarsutar123@gmail.com",
+      "password": "144",
+      "phone": "111111",
+      "id": 9
+    }
+  ],
+  "data": [
+    {
+      "image": "https://manybooks.net/sites/default/files/styles/465x295sc/public/2017-12/genre-1.png?itok=JPijQ3xG",
+      "title": "ROMANCE",
+      "about": "Boil chow mein noodles until al dente, then drain and set aside.Heat oil in a skillet, add minced garlic and sliced vegetables, and stir-fry until tender.Add protein (chicken, beef, shrimp, or tofu) and cook until cooked through.Mix in the cooked noodles and pour in a sauce made of soy sauce, oyster sauce, hoisin sauce, sugar, and black pepper.Toss everything together and cook for a few more minutes until well combined. Serve hot and enjoy!",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "image": "https://manybooks.net/sites/default/files/styles/465x295sc/public/2017-12/genre-2.png?itok=1k5Az45m",
+      "title": "ACTION & ADVENTURE",
+      "about": "Preheat your oven to the highest temperature setting (usually around 475°F or 245°C) and place a pizza stone or baking sheet inside to heat up.Roll out store-bought or homemade pizza dough into a round shape, then place it on a sheet of parchment paper.Spread pizza sauce over the dough and add your desired toppings such as cheese, vegetables, meats, and herbs.Carefully transfer the pizza on the parchment paper to the preheated baking stone or sheet and bake for 10-15 minutes, or until the crust is golden and the cheese is melted and bubbly.Remove the pizza from the oven, let it cool slightly, slice, and enjoy your homemade pizza!"
+    },
+    {
+      "id": 3,
+      "image": "https://manybooks.net/sites/default/files/styles/465x295sc/public/2017-12/genre-3.png?itok=hyUUCWf2",
+      "title": "MYSTERY & THRILLER",
+      "about": "Soak 2 cups of rice and 1/2 cup of urad dal in water overnight, then grind them separately into smooth pastes.Combine the rice and urad dal paste, add salt to taste, and let the batter ferment in a warm place for 6-8 hours or overnight.Heat a non-stick skillet or griddle on medium heat, pour a ladleful of the dosa batter, and spread it in a circular motion to form a thin, round dosa.Drizzle some oil around the edges of the dosa and cook until the bottom turns golden brown, then flip and cook the other side for a minute or so.Serve the crispy dosa hot with chutney and sambar for a delicious South Indian breakfast or snack."
+    },
+    {
+      "id": 4,
+      "image": "https://manybooks.net/sites/default/files/styles/465x295sc/public/2017-12/genre-5.png?itok=DLhAjsN2",
+      "title": "CHILDREN'S",
+      "about": "Heat oil in a pan and add cumin seeds, chopped onions, and sauté until golden brown. Add ginger-garlic paste, chopped tomatoes, and cook until the tomatoes are soft and oil separates. Add kadai masala, red chili powder, turmeric powder, and salt. Mix well. Add diced paneer, bell peppers, and cook for a few minutes until the paneer is coated with the masala and the bell peppers are slightly tender. Garnish with fresh coriander leaves and serve hot with naan or rice. Enjoy your delicious Kadai Paneer!"
+    },
+    {
+      "title": "YOUNG ADULT",
+      "image": "https://manybooks.net/sites/default/files/styles/465x295sc/public/2017-12/genre-6.png?itok=m62-KFwQ",
+      "about": "Boil chow mein noodles until al dente, then drain and set aside.Heat oil in a skillet, add minced garlic and sliced vegetables, and stir-fry until tender.Add protein (chicken, beef, shrimp, or tofu) and cook until cooked through.Mix in the cooked noodles and pour in a sauce made of soy sauce, oyster sauce, hoisin sauce, sugar, and black pepper.Toss everything together and cook for a few more minutes until well combined. Serve hot and enjoy!",
+      "id": 5
+    },
+    {
+      "title": "HORROR",
+      "image": "https://manybooks.net/sites/default/files/styles/465x295sc/public/2017-12/genre-9.png?itok=bxM3cfU-",
+      "about": "Boil chow mein noodles until al dente, then drain and set aside.Heat oil in a skillet, add minced garlic and sliced vegetables, and stir-fry until tender.Add protein (chicken, beef, shrimp, or tofu) and cook until cooked through.Mix in the cooked noodles and pour in a sauce made of soy sauce, oyster sauce, hoisin sauce, sugar, and black pepper.Toss everything together and cook for a few more minutes until well combined. Serve hot and enjoy!",
+      "id": 6
+    },
+    {
+      "title": "SCIENCE FICTION",
+      "image": "https://manybooks.net/sites/default/files/styles/465x295sc/public/2017-12/genre-12.png?itok=Ev6LGiP_",
+      "id": 7
+    },
+    {
+      "title": "FANTASY",
+      "image": "https://manybooks.net/sites/default/files/styles/465x295sc/public/2017-12/genre-7.png?itok=ldRsRCOi",
+      "about": "Boil chow mein noodles until al dente, then drain and set aside.Heat oil in a skillet, add minced garlic and sliced vegetables, and stir-fry until tender.Add protein (chicken, beef, shrimp, or tofu) and cook until cooked through.Mix in the cooked noodles and pour in a sauce made of soy sauce, oyster sauce, hoisin sauce, sugar, and black pepper.Toss everything together and cook for a few more minutes until well combined. Serve hot and enjoy!",
+      "id": 8
+    },
+    {
+      "title": "HISTORICAL FRICTION",
+      "image": "https://manybooks.net/sites/default/files/styles/465x295sc/public/2017-12/genre-8.png?itok=BjsPtIN2",
+      "about": "Boil chow mein noodles until al dente, then drain and set aside.Heat oil in a skillet, add minced garlic and sliced vegetables, and stir-fry until tender.Add protein (chicken, beef, shrimp, or tofu) and cook until cooked through.Mix in the cooked noodles and pour in a sauce made of soy sauce, oyster sauce, hoisin sauce, sugar, and black pepper.Toss everything together and cook for a few more minutes until well combined. Serve hot and enjoy!",
+      "id": 9
+    }
+  ]
+}
